@@ -4,8 +4,8 @@
 
 # Technologies
 
-Python 3.6
-pandas
-matplotlib
-seaborn
-Microsoft Excel
+* Python 3.6
+* pandas
+* matplotlib
+* seaborn
+* Microsoft Excel
